@@ -24,16 +24,12 @@ Includes step by step guide for putting your page online.
 Includes statements such as:
 - SELECT
 - FROM
-- WHERE
+- WHERE, HAVING, BETWEEN
 - LIMIT
-- GROUP BY
-- ORDER BY
-- HAVING
+- GROUP BY, ORDER BY
 - ROUND
 - DISTINCT
-- BETWEEN
-- OR
-- AND 
+- OR, AND 
 And also shows how to use artimethics and equality signs like:
 - *
 - LIKE, ILIKE, NOT LIKE
