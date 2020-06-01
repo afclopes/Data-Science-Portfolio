@@ -18,7 +18,7 @@ Includes tricks for:
 
 Includes step by step guide for putting your page online.
 
-##[Learning basics of SQL](https://github.com/afclopes/SQL_learning/blob/master/Getting_Started_in_SQL_live_Student.ipynb)
+## [Learning basics of SQL](https://github.com/afclopes/SQL_learning/blob/master/Getting_Started_in_SQL_live_Student.ipynb)
 **Discovering statements necessary to query a dataset**
 
 Includes statements such as:
@@ -43,4 +43,4 @@ And also shows how to use artimethics and equality signs like:
 
 Other more detailed exercises completed can be found in:
 1. [DataCamp Module1](https://github.com/afclopes/SQL_learning/blob/master/Introduction_to_SQL_MOD1.md)
-2.
+2. 
