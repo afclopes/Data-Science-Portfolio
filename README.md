@@ -108,9 +108,9 @@ Some plots created for visualisation:
 
 <img align="left" width="400" height="300" src="https://github.com/afclopes/Data-Science-Portfolio/blob/master/images/Picture10.png?raw=true">
 
-<img align="right" width="300" height="300" src="https://github.com/afclopes/Data-Science-Portfolio/blob/master/images/Picture11.png?raw=true">
+<img align="right" width="200" height="300" src="https://github.com/afclopes/Data-Science-Portfolio/blob/master/images/Picture11.png?raw=true">
 
-\\
+<\br>
 
 More detailed exercises can be seen at:
 1. [edX Visualisation Module 1](https://github.com/afclopes/Python-Lessons/blob/master/Course_Visualising_Data_With_Python_MOD1.ipynb)
