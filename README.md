@@ -87,6 +87,8 @@ Some plots created for visualisation:
 
 ![](https://github.com/afclopes/Data-Science-Portfolio/blob/master/images/Picture1.png?raw=true)
 
+<img align="left" width="100" height="100" src="https://github.com/afclopes/Data-Science-Portfolio/blob/master/images/Picture1.png?raw=true">
+
 ![](https://github.com/afclopes/Data-Science-Portfolio/blob/master/images/Picture3.png?raw=true)
 
 ![](https://github.com/afclopes/Data-Science-Portfolio/blob/master/images/Picture4.png?raw=true)
