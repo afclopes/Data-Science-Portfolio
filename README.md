@@ -74,9 +74,12 @@ Other more detailed exercises:
 Uses python libraries like matplotlib.pyplot and seaborn.
 
 Includes plotting in the following ways:
-- Bar plot
+- Bar plot: vertical and horizontal
 - Line plot
-- 
+- Area plot
+- Distribution bar plot
+- Pie chart
+- Scatter plot
 
 Also involves more detailed aesthetics like labelling x-axis and y-axis, title.
 
@@ -84,7 +87,7 @@ Some plots created for visualisation:
 
 ![](https://github.com/afclopes/Data-Science-Portfolio/blob/master/images/Picture1.png?raw=true)
 
-![](https://github.com/afclopes/Data-Science-Portfolio/blob/master/images/Picture3.png?raw=true){width=50px}
+![](https://github.com/afclopes/Data-Science-Portfolio/blob/master/images/Picture3.png?raw=true)
 
 ![](https://github.com/afclopes/Data-Science-Portfolio/blob/master/images/Picture4.png?raw=true)
 
@@ -107,4 +110,4 @@ More detailed exercises can be seen at:
 2. [edX Visualisation Module 2](https://github.com/afclopes/Python-Lessons/blob/master/Course_Visualizaing_Data_With_Python_MOD2.ipynb)
 3. [edX Visualisation Module 3](https://github.com/afclopes/Python-Lessons/blob/master/Course_Visualising_Data_With_Python_MOD3.ipynb)
 4. [edX Visualisation Module 4](https://github.com/afclopes/Python-Lessons/blob/master/Course_Visualising_Data_With_Python_MOD4.ipynb)
-5. [edX Visualisation Module 5]()
+5. [edX Visualisation Module 5](https://github.com/afclopes/Python-Lessons/blob/master/Course_Viualising_Data_With_Python_MOD5.ipynb)
