@@ -59,7 +59,7 @@ Other more detailed exercises:
 3. [edX Module 4](https://github.com/afclopes/Python-Lessons/blob/master/Course_Python_Basics_Data_Science_MOD4.ipynb)
 4. [edX Module 5](https://github.com/afclopes/Python-Lessons/blob/master/Course_Python_Basics_For_Data_Science_MOD5.ipynb)
 
-##[Data Visualisation in Python]()
+## [Data Visualisation in Python]()
 **Investigates data by plotting information in different manners**
 Uses python libraries like matplotlib.pyplot and seaborn.
 
