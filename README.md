@@ -87,11 +87,13 @@ Some plots created for visualisation:
 
 ![](https://github.com/afclopes/Data-Science-Portfolio/blob/master/images/Picture1.png?raw=true)
 
-<img align="left" width="300" height="300" src="https://github.com/afclopes/Data-Science-Portfolio/blob/master/images/Picture2.png?raw=true">
+<img align="left" width="300" height="300" src="https://github.com/afclopes/Data-Science-Portfolio/blob/master/images/Picture3.png?raw=true">
 
-<img align="right" width="300" height="300" src="https://github.com/afclopes/Data-Science-Portfolio/blob/master/images/Picture3.png?raw=true">
+<img align="right" width="300" height="300" src="https://github.com/afclopes/Data-Science-Portfolio/blob/master/images/Picture4.png?raw=true">
 
-![](https://github.com/afclopes/Data-Science-Portfolio/blob/master/images/Picture4.png?raw=true)
+<img align="left" width="300" height="300" src="https://github.com/afclopes/Data-Science-Portfolio/blob/master/images/Picture5.png?raw=true">
+
+<img align="right" width="300" height="300" src="https://github.com/afclopes/Data-Science-Portfolio/blob/master/images/Picture6.png?raw=true">
 
 ![](https://github.com/afclopes/Data-Science-Portfolio/blob/master/images/Picture5.png?raw=true)
 
