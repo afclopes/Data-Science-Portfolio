@@ -87,27 +87,29 @@ Some plots created for visualisation:
 
 ![](https://github.com/afclopes/Data-Science-Portfolio/blob/master/images/Picture1.png?raw=true)
 
+
 <img align="left" width="300" height="300" src="https://github.com/afclopes/Data-Science-Portfolio/blob/master/images/Picture3.png?raw=true">
 
 <img align="right" width="300" height="300" src="https://github.com/afclopes/Data-Science-Portfolio/blob/master/images/Picture4.png?raw=true">
+
 
 <img align="left" width="300" height="300" src="https://github.com/afclopes/Data-Science-Portfolio/blob/master/images/Picture5.png?raw=true">
 
 <img align="right" width="300" height="300" src="https://github.com/afclopes/Data-Science-Portfolio/blob/master/images/Picture6.png?raw=true">
 
-![](https://github.com/afclopes/Data-Science-Portfolio/blob/master/images/Picture5.png?raw=true)
 
-![](https://github.com/afclopes/Data-Science-Portfolio/blob/master/images/Picture6.png?raw=true)
+<img align="left" width="300" height="300" src="https://github.com/afclopes/Data-Science-Portfolio/blob/master/images/Picture7.png?raw=true">
 
-![](https://github.com/afclopes/Data-Science-Portfolio/blob/master/images/Picture7.png?raw=true)
+<img align="right" width="300" height="300" src="https://github.com/afclopes/Data-Science-Portfolio/blob/master/images/Picture8.png?raw=true">
 
-![](https://github.com/afclopes/Data-Science-Portfolio/blob/master/images/Picture8.png?raw=true)
 
 ![](https://github.com/afclopes/Data-Science-Portfolio/blob/master/images/Picture9.png?raw=true)
 
-![](https://github.com/afclopes/Data-Science-Portfolio/blob/master/images/Picture10.png?raw=true)
 
-![](https://github.com/afclopes/Data-Science-Portfolio/blob/master/images/Picture11.png?raw=true)
+<img align="left" width="300" height="300" src="https://github.com/afclopes/Data-Science-Portfolio/blob/master/images/Picture10.png?raw=true">
+
+<img align="right" width="300" height="300" src="https://github.com/afclopes/Data-Science-Portfolio/blob/master/images/Picture11.png?raw=true">
+
 
 More detailed exercises can be seen at:
 1. [edX Visualisation Module 1](https://github.com/afclopes/Python-Lessons/blob/master/Course_Visualising_Data_With_Python_MOD1.ipynb)
