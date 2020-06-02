@@ -27,16 +27,46 @@ Includes statements such as:
 - WHERE, HAVING, BETWEEN
 - LIMIT
 - GROUP BY, ORDER BY
-- ROUND
-- DISTINCT
-- OR, AND 
+- ROUND, DISTINCT
+- OR, AND
+- JOIN, ON
 And also shows how to use artimethics and equality signs like:
-- *
-- LIKE, ILIKE, NOT LIKE
+- LIKE, ILIKE, NOT LIKE, '%a', 'dat_'
 - `<`, `>`, `<=`, `>=`, `=!`, `=`
 - `sum()`, `max()`, `min()`, `avg()`, `count()`
-- '%a', 'dat_'
 
 Other more detailed exercises completed can be found in:
-1. [DataCamp Module1](https://github.com/afclopes/SQL_learning/blob/master/Introduction_to_SQL_MOD1.md)
-2. 
+1. [DataCamp Module 1](https://github.com/afclopes/SQL_learning/blob/master/Introduction_to_SQL_MOD1.md)
+2. [DataCamp Module 2](https://github.com/afclopes/SQL_learning/blob/master/Introduction_to_SQL_MOD2.md)
+3. [DataCamp Module 3](https://github.com/afclopes/SQL_learning/blob/master/Introduction_to_SQL_MOD3.md)
+4. [DataCamp Module 4](https://github.com/afclopes/SQL_learning/blob/master/Introduction_to_SQL_MOD4.md)
+
+## [Python Basics](https://github.com/afclopes/Python_DataCamp_Course/blob/master/webinar_content_students%20(1).ipynb)
+**Covering the basics of Python**
+
+Includes:
+- Data types: integers, floats, boolean, string
+- Aggreagted data types: lists, tuples, dictionaries, sets
+- Data frames: joining, selecting with loc[] and iloc[], creating new, calculating with columns, indexing
+- Loops: for, while, if, else, elif
+- Functions: using, creating
+- Reading files
+- Using libraries: pandas, numpy
+
+Other more detailed exercises:
+1. [edX Module 1 and 2](https://github.com/afclopes/Python-Lessons/blob/master/Course_Python_Basics_For_Data_Science_MOD1-2.ipynb)
+2. [edX Module 3](https://github.com/afclopes/Python-Lessons/blob/master/Course_Python_Basics_For_Data_Science_MOD3.ipynb)
+3. [edX Module 4](https://github.com/afclopes/Python-Lessons/blob/master/Course_Python_Basics_Data_Science_MOD4.ipynb)
+4. [edX Module 5](https://github.com/afclopes/Python-Lessons/blob/master/Course_Python_Basics_For_Data_Science_MOD5.ipynb)
+
+##[Data Visualisation in Python]()
+**Investigates data by plotting information in different manners**
+Uses python libraries like matplotlib.pyplot and seaborn.
+
+Includes plotting in the following ways:
+- Bar plot
+- Line plot
+- 
+
+Also involves more detailed aesthetics like labelling x-axis and y-axis, title
+
