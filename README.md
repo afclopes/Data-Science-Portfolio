@@ -68,5 +68,9 @@ Includes plotting in the following ways:
 - Line plot
 - 
 
-Also involves more detailed aesthetics like labelling x-axis and y-axis, title
+Also involves more detailed aesthetics like labelling x-axis and y-axis, title.
+
+Some plots created for visualisation:
+
+![](https://github.com/afclopes/Data-Science-Portfolio/blob/master/images/Picture1.png?raw=true)
 
