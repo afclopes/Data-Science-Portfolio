@@ -84,7 +84,7 @@ Some plots created for visualisation:
 
 ![](https://github.com/afclopes/Data-Science-Portfolio/blob/master/images/Picture1.png?raw=true)
 
-![](https://github.com/afclopes/Data-Science-Portfolio/blob/master/images/Picture3.png?raw=true){ width=50% }
+![](https://github.com/afclopes/Data-Science-Portfolio/blob/master/images/Picture3.png?raw=true){width=50px}
 
 ![](https://github.com/afclopes/Data-Science-Portfolio/blob/master/images/Picture4.png?raw=true)
 
