@@ -110,7 +110,7 @@ Some plots created for visualisation:
 
 <img align="right" width="600" height="200" src="https://github.com/afclopes/Data-Science-Portfolio/blob/master/images/Picture9.png?raw=true">
 
-
+<br />
 
 More detailed exercises can be seen at:
 1. [edX Visualisation Module 1](https://github.com/afclopes/Python-Lessons/blob/master/Course_Visualising_Data_With_Python_MOD1.ipynb)
