@@ -85,7 +85,7 @@ Also involves more detailed aesthetics like labelling x-axis and y-axis, title.
 
 Some plots created for visualisation:
 
-![](https://github.com/afclopes/Data-Science-Portfolio/blob/master/images/Picture1.png?raw=true)
+<img align="right" width="600" height="200" src="https://github.com/afclopes/Data-Science-Portfolio/blob/master/images/Picture1.png?raw=true">
 
 
 <img align="left" width="300" height="300" src="https://github.com/afclopes/Data-Science-Portfolio/blob/master/images/Picture7.png?raw=true">
@@ -108,7 +108,8 @@ Some plots created for visualisation:
 <img align="right" width="300" height="200" src="https://github.com/afclopes/Data-Science-Portfolio/blob/master/images/Picture11.png?raw=true">
 
 
-![](https://github.com/afclopes/Data-Science-Portfolio/blob/master/images/Picture9.png?raw=true)
+<img align="right" width="600" height="200" src="https://github.com/afclopes/Data-Science-Portfolio/blob/master/images/Picture9.png?raw=true">
+
 
 
 More detailed exercises can be seen at:
