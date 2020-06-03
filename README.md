@@ -103,9 +103,9 @@ Some plots created for visualisation:
 <img align="right" width="300" height="300" src="https://github.com/afclopes/Data-Science-Portfolio/blob/master/images/Picture6.png?raw=true">
 
 
-<img align="left" width="300" height="200" src="https://github.com/afclopes/Data-Science-Portfolio/blob/master/images/Picture10.png?raw=true">
+<img align="left" width="350" height="200" src="https://github.com/afclopes/Data-Science-Portfolio/blob/master/images/Picture10.png?raw=true">
 
-<img align="right" width="300" height="300" src="https://github.com/afclopes/Data-Science-Portfolio/blob/master/images/Picture11.png?raw=true">
+<img align="right" width="300" height="250" src="https://github.com/afclopes/Data-Science-Portfolio/blob/master/images/Picture11.png?raw=true">
 
 
 ![](https://github.com/afclopes/Data-Science-Portfolio/blob/master/images/Picture9.png?raw=true)
