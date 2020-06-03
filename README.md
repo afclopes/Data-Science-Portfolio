@@ -83,6 +83,14 @@ Includes plotting in the following ways:
 
 Also involves more detailed aesthetics like labelling x-axis and y-axis, title.
 
+More detailed exercises can be seen at:
+1. [edX Visualisation Module 1](https://github.com/afclopes/Python-Lessons/blob/master/Course_Visualising_Data_With_Python_MOD1.ipynb)
+2. [edX Visualisation Module 2](https://github.com/afclopes/Python-Lessons/blob/master/Course_Visualizaing_Data_With_Python_MOD2.ipynb)
+3. [edX Visualisation Module 3](https://github.com/afclopes/Python-Lessons/blob/master/Course_Visualising_Data_With_Python_MOD3.ipynb)
+4. [edX Visualisation Module 4](https://github.com/afclopes/Python-Lessons/blob/master/Course_Visualising_Data_With_Python_MOD4.ipynb)
+5. [edX Visualisation Module 5](https://github.com/afclopes/Python-Lessons/blob/master/Course_Viualising_Data_With_Python_MOD5.ipynb)
+
+
 Some plots created for visualisation:
 
 <img align="right" width="600" height="200" src="https://github.com/afclopes/Data-Science-Portfolio/blob/master/images/Picture1.png?raw=true">
@@ -110,11 +118,4 @@ Some plots created for visualisation:
 
 <img align="right" width="600" height="200" src="https://github.com/afclopes/Data-Science-Portfolio/blob/master/images/Picture9.png?raw=true">
 
-<br />
 
-More detailed exercises can be seen at:
-1. [edX Visualisation Module 1](https://github.com/afclopes/Python-Lessons/blob/master/Course_Visualising_Data_With_Python_MOD1.ipynb)
-2. [edX Visualisation Module 2](https://github.com/afclopes/Python-Lessons/blob/master/Course_Visualizaing_Data_With_Python_MOD2.ipynb)
-3. [edX Visualisation Module 3](https://github.com/afclopes/Python-Lessons/blob/master/Course_Visualising_Data_With_Python_MOD3.ipynb)
-4. [edX Visualisation Module 4](https://github.com/afclopes/Python-Lessons/blob/master/Course_Visualising_Data_With_Python_MOD4.ipynb)
-5. [edX Visualisation Module 5](https://github.com/afclopes/Python-Lessons/blob/master/Course_Viualising_Data_With_Python_MOD5.ipynb)
