@@ -66,6 +66,12 @@ Other more detailed exercises:
 10. [University of Cambridge Course Module 6](https://github.com/afclopes/Python_Uni_Cam_Course/blob/master/python_basic_2_2.ipynb)
 11. [University of Cambridge Course Module 7](https://github.com/afclopes/Python_Uni_Cam_Course/blob/master/python_basic_2_3.ipynb)
 12. [University of Cambridge Course Module 8](https://github.com/afclopes/Python_Uni_Cam_Course/blob/master/python_basic_2_4.ipynb)
+13. [University of Cambridge Course Module 9](https://github.com/afclopes/Python_Uni_Cam_Course/blob/master/11_python_data.ipynb)
+14. [University of Cambridge Course Module 10](https://github.com/afclopes/Python_Uni_Cam_Course/blob/master/12_python_data.ipynb)
+15. [University of Cambridge Course Module 11](https://github.com/afclopes/Python_Uni_Cam_Course/blob/master/13_python_data.ipynb)
+16. [University of Cambridge Course Module 12](https://github.com/afclopes/Python_Uni_Cam_Course/blob/master/21_python_data.ipynb)
+17. [University of Cambridge Course Module 13](https://github.com/afclopes/Python_Uni_Cam_Course/blob/master/22_python_data.ipynb)
+18. [University of Cambridge Course Module 14](https://github.com/afclopes/Python_Uni_Cam_Course/blob/master/23_python_data.ipynb)
 
 
 ## [Data Visualisation in Python]()
