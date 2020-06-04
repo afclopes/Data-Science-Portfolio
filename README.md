@@ -144,14 +144,17 @@ More detailed exercises can be seen at:
 
 Some plots created for clustering:
 
-<img align="right" width="300" height="200" src="https://github.com/afclopes/Data-Science-Portfolio/blob/master/images/KMeans_clustering_graph1.svg?raw=true">
 
 ![dendrogram](https://github.com/afclopes/Data-Science-Portfolio/blob/master/images/linkage_graph1.svg?raw=true)
 
-![NMF](https://github.com/afclopes/Data-Science-Portfolio/blob/master/images/NMF_graph3.svg)
 
-![PCA](https://github.com/afclopes/Data-Science-Portfolio/blob/master/images/pca_graph0.svg)
+<img align="right" width="300" height="200" src="https://github.com/afclopes/Data-Science-Portfolio/blob/master/images/KMeans_clustering_graph1.svg?raw=true">
 
-![tSNE](https://github.com/afclopes/Data-Science-Portfolio/blob/master/images/tsne_graph0.svg)
 
-![tSNE](https://github.com/afclopes/Data-Science-Portfolio/blob/master/images/tsne_graph1.svg)
+<img align="left" width="300" height="200" src="https://github.com/afclopes/Data-Science-Portfolio/blob/master/images/NMF_graph3.svg?raw=true">
+
+![PCA](https://github.com/afclopes/Data-Science-Portfolio/blob/master/images/pca_graph0.svg?raw=true)
+
+![tSNE](https://github.com/afclopes/Data-Science-Portfolio/blob/master/images/tsne_graph0.svg?raw=true)
+
+![tSNE](https://github.com/afclopes/Data-Science-Portfolio/blob/master/images/tsne_graph1.svg?raw=true)
