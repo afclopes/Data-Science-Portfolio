@@ -144,3 +144,14 @@ More detailed exercises can be seen at:
 
 Some plots created for clustering:
 
+![K-means clustering](https://github.com/afclopes/Data-Science-Portfolio/blob/master/images/KMeans_clustering_graph1.svg)
+
+![dendrogram](https://github.com/afclopes/Data-Science-Portfolio/blob/master/images/linkage_graph1.svg)
+
+![NMF](https://github.com/afclopes/Data-Science-Portfolio/blob/master/images/NMF_graph3.svg)
+
+![PCA](https://github.com/afclopes/Data-Science-Portfolio/blob/master/images/pca_graph0.svg)
+
+![tSNE](https://github.com/afclopes/Data-Science-Portfolio/blob/master/images/tsne_graph0.svg)
+
+![tSNE](https://github.com/afclopes/Data-Science-Portfolio/blob/master/images/tsne_graph1.svg)
