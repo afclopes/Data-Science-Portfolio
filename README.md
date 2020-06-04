@@ -122,7 +122,7 @@ Some plots created for visualisation:
 <img align="right" width="300" height="200" src="https://github.com/afclopes/Data-Science-Portfolio/blob/master/images/Picture11.png?raw=true">
 
 
-<img align="right" width="500" height="500" src="https://github.com/afclopes/Data-Science-Portfolio/blob/master/images/Picture9.png?raw=true">
+![](https://github.com/afclopes/Data-Science-Portfolio/blob/master/images/Picture9.png?raw=true)
 
 
 ## [Machine Learning with Python](https://github.com/afclopes/Machine-Learning/blob/master/Unsupervised_Learning_in_Python_MOD2.md)
