@@ -125,3 +125,22 @@ Some plots created for visualisation:
 <img align="right" width="500" height="500" src="https://github.com/afclopes/Data-Science-Portfolio/blob/master/images/Picture9.png?raw=true">
 
 
+## [Machine Learning with Python](https://github.com/afclopes/Machine-Learning/blob/master/Unsupervised_Learning_in_Python_MOD2.md)
+
+**Unsupervised learning in Python using scikit-learn and scipy libraries for computing clustering**
+
+Includes clustering done with:
+- K-Means
+- t-SNE (t-distributed stochastic neighbor embedding)
+- Hierarchical clustering like dendrograms
+- PCA (Principal Component Analysis)
+- NMF (Non-negative Matrix Factorization)
+
+More detailed exercises can be seen at:
+1. [DataCamp Module 1](https://github.com/afclopes/Machine-Learning/blob/master/Unsupervised_Learning_in_Python_MOD1.md)
+2. [DataCamp Module 2](https://github.com/afclopes/Machine-Learning/blob/master/Unsupervised_Learning_in_Python_MOD2.md)
+3. [DataCamp Module 3](https://github.com/afclopes/Machine-Learning/blob/master/Unsupervised_Learning_in_Python_MOD3.md)
+4. [DataCamp Module 4](https://github.com/afclopes/Machine-Learning/blob/master/Unsupervised_Learning_in_Python_MOD4.md)
+
+Some plots created for clustering:
+
