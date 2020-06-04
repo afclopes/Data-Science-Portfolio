@@ -146,7 +146,7 @@ Some plots created for clustering:
 
 <img align="right" width="300" height="200" src="https://github.com/afclopes/Data-Science-Portfolio/blob/master/images/KMeans_clustering_graph1.svg?raw=true">
 
-![dendrogram](https://github.com/afclopes/Data-Science-Portfolio/blob/master/images/linkage_graph1.svg)
+![dendrogram](https://github.com/afclopes/Data-Science-Portfolio/blob/master/images/linkage_graph1.svg?raw=true)
 
 ![NMF](https://github.com/afclopes/Data-Science-Portfolio/blob/master/images/NMF_graph3.svg)
 
